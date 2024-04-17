@@ -27,5 +27,6 @@ beyond current limitations.
 
 ## Technologies Used:
 - Frontend: JS, React, Unity
+- Game Server: Nodejs
 - Backend: Java, Spring boot, MongoDB
 - Others: AWS
