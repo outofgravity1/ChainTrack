@@ -1,6 +1,5 @@
 
 
-<span style="text-decoration: underline">Official repository for the paper: </span> 
 # Streamlining Blockchain Transactions: A Cost-Effective Pipeline for Enhanced Security and Integration in Non-Browser Applications
 
 In the dynamic field of blockchain and Non-Fungible
