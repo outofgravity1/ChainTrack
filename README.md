@@ -28,6 +28,8 @@ stride towards realizing a user-friendly and economically robust
 digital environment, enhancing the blockchain quality of service
 beyond current limitations.
 
+![](/img/Workflow.png)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -62,6 +64,7 @@ cd 2FA-Dashboard
 npm i
 npm run start
 ```
+![](/img/Dashboard.jpeg)
 
 ### Running 2FA Demo Client
 
